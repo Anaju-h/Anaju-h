@@ -65,7 +65,7 @@
 
 ### <img src="assets/icon-scroll.svg" width="28" align="absmiddle" alt="" /> Marginalia
 
-<p align="center"><img src="assets/quote.svg" width="100%" alt="“Begin at the beginning,” the King said, very gravely, “and go on till you come to the end: then stop.” — Alice's Adventures in Wonderland" /></p>
+<p align="center"><img src="assets/quote.svg" width="100%" alt="“We know what we are, but know not what we may be.” — Ophelia, Hamlet" /></p>
 
 <p align="center"><sub>A new page with every commit.</sub></p>
 
