@@ -13,10 +13,10 @@
     </td>
     <td width="58%" valign="top">
       <h3><img src="assets/icon-book.svg" width="28" align="absmiddle" alt="" /> About the author</h3>
-      <p>Software Engineering student at SENAI FATESG who treats code like a good book: a clear beginning, a solid middle and an ending with no bugs.</p>
-      <p>On the front end, I build interfaces with <b>React</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>, powered by <b>Vite</b>.</p>
-      <p>On the back end, I work with <b>Java</b> and <b>Quarkus</b> (REST, Hibernate ORM, Flyway, JWT), <b>SQL Server</b> and <b>Docker</b>.</p>
-      <p>I also build desktop applications in <b>Python</b> with <b>PySide6 (Qt)</b> and <b>PyMuPDF</b>, and in <b>Java Swing</b>.</p>
+      <p>Software Engineer who treats code like a good book: a clear beginning, a solid middle and an ending with no bugs.</p>
+      <p>I work with <b>Java</b>, <b>React</b>, <b>TypeScript</b>, <b>Python</b> and other technologies. </p>
+      <p>I build full-stack web platforms and desktop tools for <b>applied metrology</b>, where a measurement is only as good as the software behind it.</p>
+      <p>Fluent in English, learning German, and always looking for international opportunities.</p>
     </td>
   </tr>
 </table>
