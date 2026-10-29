@@ -70,5 +70,5 @@
 <p align="center"><sub>A new page with every commit.</sub></p>
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="The next chapter is written one commit at a time" />
+  <img src="assets/footer-dragon.svg" width="100%" alt="The next chapter is written one commit at a time" />
 </div>
