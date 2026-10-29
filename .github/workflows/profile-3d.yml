@@ -1,8 +1,8 @@
-name: Gráfico 3D de contribuições
+name: 3D contribution graph
 
 on:
   schedule:
-    - cron: "0 9 * * *" # todo dia às 06:00 (horário de Brasília)
+    - cron: "0 9 * * *" # every day at 06:00 (Brasília time)
   workflow_dispatch:
 
 permissions:
@@ -17,10 +17,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit e push
+      - name: Commit and push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git diff --cached --quiet || git commit -m "Atualiza gráfico 3D de contribuições"
+          git diff --cached --quiet || git commit -m "Update 3D contribution graph"
           git push
